@@ -285,6 +285,5 @@ This dataset was generously provided by Olist, the largest department store in B
 
 This is real commercial data, anonymised.
 
-We will start by understanding the data we have, about the different attributes in depth. You'll learn how to clean and pre-process the data. Next, we will understand the relationship between features through Explorartory data analysis. You'll learn how to generate the RFM matrix from the given data, how to apply probablistic models to generate CLV, how to use kmeans and cluster the customers into different segments on the basis of lifetime value 
 
 
